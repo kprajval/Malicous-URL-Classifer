@@ -1,5 +1,5 @@
-Malicious URL Classifier
-Project Overview
+#Malicious URL Classifier
+<b>Project Overview<b>
 The Malicious URL Classifier aims to categorize URLs into four distinct classes to help identify and mitigate online security risks:
 
 Benign: Safe, legitimate URLs.
@@ -8,7 +8,7 @@ Phishing: URLs used for deceptive practices, often aiming to steal user credenti
 Malware: URLs hosting malicious software.
 This project employs a variety of text classification models to analyze the patterns within URLs and classify them based on their learned features, offering an efficient way to detect harmful URLs.
 
-Models Used and Performance Analysis
+<b>Models Used and Performance Analysis<b>
 Several machine learning and deep learning models were implemented and evaluated based on their accuracy in classifying URLs. Below are the results of the models tested:
 
 1. Naïve Bayes – 86% Accuracy
